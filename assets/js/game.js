@@ -14,7 +14,7 @@ var enemyAttack = 12;
 function fight() {
   
   var promptFight = window.prompt("Would you like to FIGHT or SKIP this battle? Enter 'FIGHT' or 'SKIP' to choose.");
-console.log ( promptFight );
+console.log ( promptFight ); stay
 }
 
 // if player choses to fight, then fight
